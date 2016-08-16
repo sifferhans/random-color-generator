@@ -1,0 +1,23 @@
+{
+  "name": "color-generator",
+  "version": "1.0.0",
+  "description": "This tiny JavaScript-library serves the purpose of creating random colors for your big projects. Colorful!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sifferhans/color-generator.git"
+  },
+  "keywords": [
+    "color",
+    "generator"
+  ],
+  "author": "'Sigve <'sighan12@gmail.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sifferhans/color-generator/issues"
+  },
+  "homepage": "https://github.com/sifferhans/color-generator#readme"
+}
