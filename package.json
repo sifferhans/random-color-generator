@@ -1,5 +1,5 @@
 {
-  "name": "color-generator",
+  "name": "random-color-generator",
   "version": "1.0.0",
   "description": "This tiny JavaScript-library serves the purpose of creating random colors for your big projects. Colorful!",
   "main": "src/index.js",
